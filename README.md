@@ -8,7 +8,7 @@
 
 修改“KG_Marvel\neo_db\config.py”中的用户名密码
 
-解压“KG_Marvel\KGQA\ltp_data_v3.4.0.zip”
+解压“KG_Marvel\KGQA\ltp_data_v3.4.0.zip”,压缩包资源在百度云。
 
 修改“KG_Marvel\KGQA\ltp.py”中的模型路径（需用绝对路径）
 
